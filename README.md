@@ -8,6 +8,14 @@
  + 💬 Fale comigo sobre qualquer coisa relacionada ao desenvolvimento Back-End
  + 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/vitordevv/)
  + ⚓ Fun fact: Big fan of One Piece 
-
-
-
+ 
+ <br>
+ <br>
+ <br>
+ <br>
+ 
+ <p>
+ <img width="500em" src="https://github-readme-stats.vercel.app/api?username=devjoaovl&show_icons=true&theme=tokyonight"/>
+ <img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devjoaovl&layout=compact&theme=tokyonight&langs_count=10"/>
+ 
+ </p>
