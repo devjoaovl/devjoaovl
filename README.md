@@ -1,4 +1,4 @@
-<img align="right" height="330em" src="https://user-images.githubusercontent.com/85787158/211084017-8f2996aa-15d6-4531-a205-d9f18db99d74.png" />
+<img align="right" height="330em" src="https://user-images.githubusercontent.com/85787158/211324697-dde4293b-f6b5-456d-a77a-3f11452845c8.png" />
 <h1 align="center">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="35px">, Eu sou o João </h1>
  
 <p align="center"><img src="https://komarev.com/ghpvc/?username=devjoaovl&color=yellow" alt="Profile Views"/></p>  
