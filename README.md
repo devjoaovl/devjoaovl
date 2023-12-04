@@ -4,7 +4,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=devjoaovl&color=yellow" alt="Profile Views"/></p>  
  
  + 🔭 Eu atualmente estou a procura de um novo emprego
- + 🌱 Estou aprendendo e me aprofundando na linguagem JAVA
+ + 🌱 Estou me aprofundando na linguagem JAVA
  + 💬 Fale comigo sobre qualquer coisa relacionada ao desenvolvimento Back-End
  + 📫 Como me encontrar: [Linkedin](https://www.linkedin.com/in/vitordevv/)
  + ⚓ Fun fact: Big fan of One Piece 
